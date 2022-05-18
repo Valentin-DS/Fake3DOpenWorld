@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+6WFaSo/+kmpOTsKtaUJYUYaHre9FU+BuAx8rGkuQy1n1wKqo1mnuCp4wVmueFC2QVkOowH3n2dIp3VxooxIQ==",
+  "success": true,
+  "projectFilePath": "F:\\Data\\Fake3DOW\\Fake3DOpenWorld\\Fake3DOpenWorld\\Fake3DOpenWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentin\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

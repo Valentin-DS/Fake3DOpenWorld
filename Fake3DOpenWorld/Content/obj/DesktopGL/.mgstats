@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Data/Fake3DOW/Fake3DOpenWorld/Fake3DOpenWorld/Content/Environment/F3D_Clouds.png","F:/Data/Fake3DOW/Fake3DOpenWorld/Fake3DOpenWorld/Content/bin/DesktopGL/Environment/F3D_Clouds.xnb","TextureProcessor","Texture2DContent",6308,1728085,0.2673514
+"F:/Data/Fake3DOW/Fake3DOpenWorld/Fake3DOpenWorld/Content/Environment/F3D_Sky.png","F:/Data/Fake3DOW/Fake3DOpenWorld/Fake3DOpenWorld/Content/bin/DesktopGL/Environment/F3D_Sky.xnb","TextureProcessor","Texture2DContent",7989,1728085,0.2828918
